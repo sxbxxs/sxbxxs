@@ -1,8 +1,8 @@
-<img width="1200" height="400" alt="github_banner" src="https://github.com/user-attachments/assets/c5094bfc-007e-40b1-9b5f-e3bef48cec41" />
+
 
 <h1 align="center">Hola 👋, soy Jhoan Sebastián Hernández Salcedo</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas | Full Stack Developer en formación</h3>
-
+<img width="1200" height="400" alt="github_banner" src="https://github.com/user-attachments/assets/c5094bfc-007e-40b1-9b5f-e3bef48cec41" />
 <p align="center">
   📍 Aguachica, Cesar, Colombia
 </p>
@@ -24,17 +24,15 @@
 ### 🛠️ Tecnologías y herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,js,html,css,mysql,figma,git,github,matlab" />
+  <img src="https://skillicons.dev/icons?i=cs,js,html,css,mysql,figma,git,github,matlab,vue,nodejs,postgres,vscode,azure,linux,ubuntu,bash,powershell,ps,ai" />
 </p>
 
 ---
 
 ### 📊 Estadísticas de GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxbxxs&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxbxxs&layout=compact&theme=radical" height="165"/>
-</p>
+<img width="1200" height="300" alt="github_stats_card" src="https://github.com/user-attachments/assets/ad14de38-115d-4ada-b2cf-a805f6b1e770" />
+
 
 ---
 

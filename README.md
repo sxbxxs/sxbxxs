@@ -1,3 +1,5 @@
+<img width="1200" height="400" alt="github_banner" src="https://github.com/user-attachments/assets/c5094bfc-007e-40b1-9b5f-e3bef48cec41" />
+
 <h1 align="center">Hola 👋, soy Jhoan Sebastián Hernández Salcedo</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas | Full Stack Developer en formación</h3>
 
